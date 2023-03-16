@@ -1,4 +1,3 @@
-import request from "request";
 import fetch from "node-fetch";
 
 const billingAccountName = "7d603717-49f5-46fd-af1f-c65aebae6ed0";
